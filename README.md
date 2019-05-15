@@ -2,6 +2,15 @@
 # Model Evaluation and Validation
 ## Project: Predicting Boston Housing Prices
 
+### Works done in this project:
+- Compare bias and variance in data modeling.
+- Estimate model parameters using optimization algorithms.
+- Use cross validation and tune its paramters.
+- Analyze model performance.
+- Deploy methods to select between models.
+- Exploit the model to form predictions.
+- predict prices using regression model for housing dataset.
+
 ### Install
 
 This project requires **Python** and the following Python libraries installed:
@@ -45,11 +54,4 @@ The modified Boston housing dataset consists of 489 data points, with each datap
 **Target Variable**
 4. `MEDV`: median value of owner-occupied homes# Machine-learning-Housing-Priceing
 
-### Works done in this project:
-- Compare bias and variance in data modeling.
-- Estimate model parameters using optimization algorithms.
-- Use cross validation and tune its paramters.
-- Analyze model performance.
-- Deploy methods to select between models.
-- Exploit the model to form predictions.
-- predict prices using regression model for housing dataset.
+
