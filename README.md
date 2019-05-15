@@ -46,11 +46,10 @@ The modified Boston housing dataset consists of 489 data points, with each datap
 4. `MEDV`: median value of owner-occupied homes# Machine-learning-Housing-Priceing
 
 ### Works done in this project:
-- Compare and contrast bias and variance when modeling data.
+- Compare bias and variance in data modeling.
 - Estimate model parameters using optimization algorithms.
-- Tune parameters with cross validation.
-- Analyze the performance of the model.
-- Describe the notion of sparsity and how LASSO leads to sparse solutions.
+- Use cross validation paramters.
+- Analyze model performance.
 - Deploy methods to select between models.
 - Exploit the model to form predictions.
-- Build a regression model to predict prices using a housing dataset.
+- predict prices using regression model for housing dataset.
