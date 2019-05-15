@@ -48,7 +48,7 @@ The modified Boston housing dataset consists of 489 data points, with each datap
 ### Works done in this project:
 - Compare bias and variance in data modeling.
 - Estimate model parameters using optimization algorithms.
-- Use cross validation paramters.
+- Use cross validation and tune its paramters.
 - Analyze model performance.
 - Deploy methods to select between models.
 - Exploit the model to form predictions.
